@@ -1,4 +1,4 @@
-Morse Translator
+# Morse Translator
 
 Developing a Program That Can Encrypt Characters and Decrypt Morse Code Using Core Python Programming
 
